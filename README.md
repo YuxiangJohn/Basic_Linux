@@ -16,6 +16,8 @@
 
 [TCP三次与四次握手](https://blog.csdn.net/whuslei/article/details/6667471)
 
+[数据包封装和报文格式](https://blog.csdn.net/wenqian1991/article/details/44042677)
+
 3. 扇区，簇，块， 页
 
 [电脑中常用的“扇区”、“簇”、“块”、“页”等概念](https://www.i3geek.com/archives/1275)
