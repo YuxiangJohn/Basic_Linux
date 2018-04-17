@@ -8,6 +8,8 @@
 
 [linux下的多线程/多进程同步/通信机制](https://blog.csdn.net/kingcat666/article/details/75269593)
 
+[进程的三种状态](http://www.cnblogs.com/Carrie-0173/p/6357742.html)
+
 2. 计算机网络
 
 [TCP UDP 区别](http://blog.51cto.com/feinibuke/340272)
