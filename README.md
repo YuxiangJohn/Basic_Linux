@@ -13,3 +13,7 @@
 [TCP UDP 区别](http://blog.51cto.com/feinibuke/340272)
 
 [TCP三次与四次握手](https://blog.csdn.net/whuslei/article/details/6667471)
+
+3. 扇区，簇，块， 页
+[电脑中常用的“扇区”、“簇”、“块”、“页”等概念](https://www.i3geek.com/archives/1275)
+[牛客网](https://www.nowcoder.com/questionTerminal/5aa3d127c22d49b4a1178d9c65c9f0e2)
